@@ -22,10 +22,10 @@ body {
   color: white;
   background-color: black;
 }
-#resume {color:#151515;
-font-family: 'Dosis', sans-serif;
+#resume {color:#42DCA3;
+font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-weight:100px;
-font-size:18px}
+font-size:20px}
 #first::first-letter {
 font-size:200%;
 }
@@ -264,7 +264,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: url(../img/bg2.jpeg) no-repeat bottom center scroll;
+  background: url(../img/bg2.png) no-repeat center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
